@@ -9,7 +9,7 @@
   <li>- 😄 Pronouns: he/him</p></li>
 </ul>
 <h1>Connect with me</h1>
-<a href="https://www.instagram.com/samvavra_coding"><img src="![obrazek](https://github.com/user-attachments/assets/f7f398e6-32ec-4e75-8dbd-0937128d24e3)
+<img <a href="https://www.instagram.com/samvavra_coding"></a> src="![obrazek](https://github.com/user-attachments/assets/f7f398e6-32ec-4e75-8dbd-0937128d24e3)
 " alt="Instagram link">
 
 
