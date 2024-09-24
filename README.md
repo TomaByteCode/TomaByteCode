@@ -8,9 +8,6 @@
   <li>- 📫 How to reach me: How to reach me: You can contact me via email at [sam.vavra067@protonmail.com](mailto:sam.vavra067@protonmail.com)</li>
   <li>- 😄 Pronouns: he/him</p></li>
 </ul>
-<h1>Connect with me</h1>
-<img <a href="https://www.instagram.com/samvavra_coding"></a> src="![obrazek](https://github.com/user-attachments/assets/f7f398e6-32ec-4e75-8dbd-0937128d24e3)
-" alt="Instagram link">
 
 
 
