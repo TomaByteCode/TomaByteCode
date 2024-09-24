@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-- 👋 Hi, I’m @TomaByteCode
+<h1>- 👋 Hi, I’m @TomaByteCode</h1>
+<hr>
 - 👀 I’m interested in cybersecurity and networks.
 - 🌱 I’m currently learning JavaScript and networks.
 - 💞️ I’m looking to collaborate on ...
