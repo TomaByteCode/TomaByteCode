@@ -1,26 +1,54 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1>- 👋 Hi, I’m @TomaByteCode</h1>
+<div align="center">
+  <h1>- 👋 Hi, I’m @TomaByteCode</h1>
+</div>
+<details>
+  <summary>Info</summary>
 <ul>
   <li>- 👀 I’m interested in cybersecurity and networks.</li>
   <li>- 🌱 I’m currently learning JavaScript and networks.</li>
   <li>- 📫 How to reach me: How to reach me: You can contact me via email at [sam.vavra067@protonmail.com](mailto:sam.vavra067@protonmail.com)</li>
   <li>- 😄 Pronouns: he/him</p></li>
 </ul>
-
-### Langueges and Tools:
- <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-     <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</details>
 
 
+<div align="center">
+
+### Languages and Tools:
+
+<img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+</div>
+
+
+#
+
+<div align="center">
 
 ### Stats:
 
-# ![TomaByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomaByteCode&show_icons=true&theme=radical)
+![TomaByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomaByteCode&show_icons=true&theme=radical)
+
+</div>
+
+#
+
+<div align="center">
+  
+### Top Langs:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomaByteCode&size_weight=0.5&count_weight=0.5&theme=radical)
+  
+</div>
+
+#
 
 
   
