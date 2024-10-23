@@ -1,9 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+
 <div align="center">
   <h1>- 👋 Hi, I’m @TomaByteCode</h1>
 </div>
+
+![](https://komarev.com/ghpvc/?username=TomaByteCode&color=blue)
+
 <details>
   <summary>Info</summary>
 <ul>
