@@ -9,17 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=TomaByteCode&color=blue)
 
-<details>
-  <summary>Info</summary>
-<ul>
-  <li>- 👀 I’m interested in cybersecurity and networks.</li>
-  <li>- 🌱 I’m currently learning JavaScript and networks.</li>
-  <li>- 📫 How to reach me: How to reach me: You can contact me via email at [sam.vavra067@protonmail.com](mailto:sam.vavra067@protonmail.com)</li>
-  <li>- 😄 Pronouns: he/him</p></li>
-</ul>
-</details>
-
-
 <div align="center">
 
 ### Languages and Tools:
